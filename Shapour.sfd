@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1348360653
-ModificationTime: 1349045444
+ModificationTime: 1375082442
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -37,19 +37,20 @@ HheadDOffset: 1
 OS2Vendor: 'PfEd'
 DEI: 91125
 Encoding: UnicodeFull
+Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 68202 27 16
+WinInfo: 0 63 19
 BeginChars: 1114112 28
 
 StartChar: u10B60
 Encoding: 68448 68448 0
 Width: 754
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -74,7 +75,7 @@ StartChar: u10B61
 Encoding: 68449 68449 1
 Width: 431
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -94,7 +95,7 @@ StartChar: u10B62
 Encoding: 68450 68450 2
 Width: 740
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -114,7 +115,7 @@ StartChar: u10B63
 Encoding: 68451 68451 3
 Width: 680
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -154,7 +155,7 @@ StartChar: u10B64
 Encoding: 68452 68452 4
 Width: 831
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -200,7 +201,7 @@ StartChar: u10B65
 Encoding: 68453 68453 5
 Width: 718
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -236,7 +237,7 @@ StartChar: u10B66
 Encoding: 68454 68454 6
 Width: 583
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -273,7 +274,7 @@ StartChar: u10B67
 Encoding: 68455 68455 7
 Width: 1131
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -316,7 +317,7 @@ StartChar: u10B68
 Encoding: 68456 68456 8
 Width: 745
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -351,7 +352,7 @@ StartChar: u10B69
 Encoding: 68457 68457 9
 Width: 605
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -385,7 +386,7 @@ StartChar: u10B6A
 Encoding: 68458 68458 10
 Width: 646
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -427,7 +428,7 @@ StartChar: u10B6B
 Encoding: 68459 68459 11
 Width: 658
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -457,7 +458,7 @@ StartChar: u10B6C
 Encoding: 68460 68460 12
 Width: 762
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -507,7 +508,7 @@ StartChar: u10B6D
 Encoding: 68461 68461 13
 Width: 664
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -534,7 +535,7 @@ StartChar: u10B6E
 Encoding: 68462 68462 14
 Width: 743
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -576,7 +577,7 @@ StartChar: u10B6F
 Encoding: 68463 68463 15
 Width: 793
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -616,7 +617,7 @@ StartChar: u10B70
 Encoding: 68464 68464 16
 Width: 875
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -670,7 +671,7 @@ StartChar: u10B71
 Encoding: 68465 68465 17
 Width: 1138
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -731,7 +732,7 @@ StartChar: u10B72
 Encoding: 68466 68466 18
 Width: 856
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -778,7 +779,7 @@ StartChar: u10B78
 Encoding: 68472 68472 19
 Width: 550
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -809,7 +810,7 @@ StartChar: u10B79
 Encoding: 68473 68473 20
 Width: 898
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -859,7 +860,7 @@ StartChar: u10B7A
 Encoding: 68474 68474 21
 Width: 1238
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -928,7 +929,7 @@ StartChar: u10B7B
 Encoding: 68475 68475 22
 Width: 1582
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1036,7 +1037,7 @@ StartChar: u10B7D
 Encoding: 68477 68477 24
 Width: 552
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1129,64 +1130,47 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-295 706 m 0
- 302 706 308 706 315 706 c 0
- 340 704 363 698 384 689 c 0
- 404 679 428 666 434 632 c 0
- 438 613 439 588 439 558 c 0
- 439 520 437 474 437 422 c 1
- 523 422 590 422 628 422 c 1
- 632 633 l 1
- 722 631 l 1
- 718 377 l 2
- 718 365 713 354 705 346 c 0
- 696 337 685 333 673 333 c 2
+353 420 m 2
+ 353 504 l 2
+ 353 541 352 578 346 607 c 1
+ 332.887 615.023 300.923 618 278 618 c 0
+ 250 618 238.501 607.501 224 593 c 0
+ 206.501 575.501 195 540 195 540 c 1
+ 188 511 195 451 219 437 c 0
+ 248 419 255 419 280 416 c 24
+ 308 412 353 414 353 420 c 2
+390 0 m 2
+ 364.698 0 345 22.1214 345 47 c 2
+ 345 47 347 187 348 332 c 1
+ 318 332 298 331 277 331 c 2
+ 261 331 l 1
+ 232 333 203 340 172 356 c 0
+ 123.061 382.07 105 434.416 105 502 c 0
+ 105 555 119 614 160 655 c 0
+ 197 693 245 706 290 706 c 2
+ 315 706 l 1
+ 371.705 696.956 422.015 689.883 434 632 c 0
+ 447.029 569.078 436.184 502.127 437 422 c 1
+ 628 422 l 1
+ 628 633 l 1
+ 722 633 l 1
+ 722 377 l 2
+ 722 352.199 696.903 333 673 333 c 2
  673 333 553 332 436 332 c 1
- 436 316 436 300 436 285 c 0
- 436 212 437 153 437 113 c 0
- 437 104 437 97 437 90 c 1
+ 436 285 l 2
+ 436 212 437 153 437 113 c 2
+ 437 90 l 1
  675 90 l 1
  675 0 l 1
  390 0 l 2
- 378 0 366 5 358 14 c 0
- 349 23 345 35 345 47 c 2
- 345 47 347 187 348 332 c 1
- 318 332 298 331 277 331 c 0
- 272 331 266 331 261 331 c 0
- 232 333 203 340 172 356 c 0
- 145 369 129 393 120 417 c 0
- 110 441 105 468 105 496 c 0
- 105 498 105 500 105 502 c 0
- 105 555 119 614 160 655 c 0
- 197 693 245 706 290 706 c 0
- 292 706 293 706 295 706 c 0
-284 614 m 0
- 256 614 239 607 224 593 c 0
- 207 575 190 545 190 509 c 0
- 190 508 190 507 190 506 c 1
- 190 504 190 502 190 500 c 0
- 190 483 201 463 214 455 c 1
- 226 444 241 432 244 432 c 0
- 261 425 l 0
- 261 425 260 426 258 427 c 1
- 268 422 274 420 280 420 c 0
- 285 420 321 416 328 416 c 0
- 329 416 300 421 302 421 c 1
- 353 422 l 1
- 353 428 353 433 353 439 c 0
- 353 459 353 481 353 504 c 0
- 353 541 352 578 346 607 c 1
- 338 611 324 615 308 616 c 0
- 303 616 288 614 284 614 c 0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: space
 Encoding: 32 32 27
 Width: 700
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Back
 Image: 365 640 3 1460 0 ffffffff 0 819 1.6 1.6 0
