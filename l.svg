@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1200"
+   height="1000"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="l.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective5911"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="685.45309"
+     inkscape:cy="518.98985"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="766"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="0,1"
+       position="20,197.14286"
+       id="guide2816" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="511.42857,548.57143"
+       id="guide2818" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1054.2857,365.71429"
+       id="guide2820" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="628.57143,900"
+       id="guide2822" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="565.71429,611.42857"
+       id="guide2824" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="101.01525,816.20326"
+       id="guide3672" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="765.69562,548.57143"
+       id="guide5969" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-52.36218)">
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:90;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       d="m 690.6875,154.375 0,347.40625 a 45.0045,45.0045 0 0 0 33.71875,43.5625 c 0,0 63.25264,16.59981 125.09375,45.84375 30.92056,14.62197 61.00106,32.54142 80.78125,50.3125 19.78019,17.77108 26.93881,32.42574 27,43.40625 0.20788,37.30142 -7.96625,65.78914 -30.3125,87.15625 C 904.6225,793.42961 862.00883,812.21875 780,812.21875 l -186.3125,0 0,90 186.3125,0 c 95.97106,0 164.72536,-22.60969 209.15625,-65.09375 44.43085,-42.48406 58.41725,-100.28199 58.12495,-152.71875 C 1047.0251,638.4469 1020.7024,601.75336 990.4375,574.5625 960.17256,547.37164 923.64764,526.7011 888,509.84375 846.70108,490.31397 807.67873,476.75759 780.6875,468.25 l 0,-313.875 -90,0 z"
+       id="path5967" />
+  </g>
+</svg>
